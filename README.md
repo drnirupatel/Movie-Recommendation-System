@@ -30,6 +30,6 @@ streamlit run app.py
 
 ## Note
 
-The file `similarity.pkl` is not included because it exceeds GitHub's 100 MB file size limit.
+The file `similarity.pkl` and dataset files are not included because it exceeds GitHub's 100 MB file size limit.
 
 To generate it, run the notebook used for preprocessing and model creation.
