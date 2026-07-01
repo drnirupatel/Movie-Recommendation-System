@@ -30,6 +30,19 @@ streamlit run app.py
 
 ## Note
 
-The file `similarity.pkl` and dataset files are not included because it exceeds GitHub's 100 MB file size limit.
+The file `similarity.pkl` is not included because it exceeds GitHub's 100 MB file size limit.
 
 To generate it, run the notebook used for preprocessing and model creation.
+
+## Dataset
+
+This project uses the TMDB 5000 Movie Dataset.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+After downloading, place these files in the project folder:
+
+- tmdb_5000_movies.csv
+- tmdb_5000_credits.csv
