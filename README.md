@@ -27,3 +27,9 @@ This project is a Content-Based Movie Recommendation System built using Python, 
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## Note
+
+The file `similarity.pkl` is not included because it exceeds GitHub's 100 MB file size limit.
+
+To generate it, run the notebook used for preprocessing and model creation.
